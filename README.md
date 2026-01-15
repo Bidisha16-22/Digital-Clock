@@ -7,7 +7,6 @@ It displays the current time and date in real time with a simple and user-friend
 
 ## 🔗 Live Demo
 👉 https://bidisha16-22.github.io/Digital-Clock/
-
 ---
 
 ## ✨ Features
